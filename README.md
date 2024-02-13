@@ -1,5 +1,4 @@
 
-![Donut](RPReplay_Final1707848974.gif)
 <img src="RPReplay_Final1707848974.gif" width="300" height="300">
 
 
