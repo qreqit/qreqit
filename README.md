@@ -8,6 +8,7 @@
 ## IDE <img src="RPReplay_Final1707848974.gif" width="30" height="30">
 <img src=https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png width="50" height="50">
 <img src=https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png width="50" height="50">
+
 ## Socials <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30" height="30">
 
 
