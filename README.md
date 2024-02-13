@@ -2,7 +2,7 @@
 <img src="RPReplay_Final1707848974.gif" width="400" height="400">
 
 ## Languages and tools <img src="RPReplay_Final1707848974.gif" width="30" height="30">
-<img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50" height="50">
 
 ## IDE <img src="RPReplay_Final1707848974.gif" width="30" height="30">
