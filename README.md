@@ -1,5 +1,5 @@
 
-<img src="RPReplay_Final1707848974.gif" width="250" height="250">
+<img src="Screen%20Recording%202024-02-13%20at%2021.26.52.mov" width="250" height="250">
 
 ## Languages and tools <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
 <div>
