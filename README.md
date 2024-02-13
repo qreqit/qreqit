@@ -1,5 +1,7 @@
 
 ![Donut](RPReplay_Final1707848974.gif)
+<img src="RPReplay_Final1707848974.gif" width="300" height="300">
+
 
 ## Socials <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="23">
 
