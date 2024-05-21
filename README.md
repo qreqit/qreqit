@@ -1,6 +1,16 @@
 
 <img src=Donut.gif>
-[![GitHub Streak](https://streak-stats.demolab.com?user=qreqit&theme=shadow-orange&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=qreqit&show_icons=true&theme=radical" alt="GitHub stats" height="165">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Qreqit&theme=radical&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" height="165" /></a>
+</p>
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qreqit&theme=shadow-orange&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+
+
 ## Languages and tools <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
 <div>
     <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50" height="50">
