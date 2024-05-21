@@ -1,14 +1,10 @@
 
 <img src=Donut.gif>
 
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=qreqit&show_icons=true&theme=radical" alt="GitHub stats" height="165">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Qreqit&theme=radical&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" height="165" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qreqit&theme=shadow-orange&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </p>
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qreqit&theme=shadow-orange&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 
 
 ## Languages and tools <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
