@@ -21,6 +21,12 @@
     <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50" height="50">
 </div>
 
+## OS <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
+<div>
+    <img src="Linux-Dark.svg" width="50" height="50">
+    <img src="Apple-Dark.svg" width="50" height="50">
+    
+
 ## Socials <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
 <div>
     <a href="https://www.instagram.com/greqit/"><img src="Instagram.svg" alt="Instagram" width="50" height="50"></a>
