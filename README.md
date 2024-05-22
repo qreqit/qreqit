@@ -20,18 +20,18 @@
 
 </div>
 
-## IDE <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
+## IDE 
 <div>
     <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50" height="50">
 </div>
 
-## OS <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
+## OS 
 <div>
     <img src="Linux-Dark.svg" width="50" height="50">
     <img src="Apple-Dark.svg" width="50" height="50">
     
 
-## Socials <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
+## Socials 
 <div>
     <a href="https://www.instagram.com/greqit/"><img src="Instagram.svg" alt="Instagram" width="50" height="50"></a>
     <a href="https://www.linkedin.com/in/%D1%96%D0%B2%D0%B0%D0%BD-%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D1%8F-7099a22b1/"><img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50"></a>
