@@ -2,7 +2,6 @@
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qreqit&theme=shadow-orange&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
-    <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FNFT%2Fcomments%2Fpp85nh%2Fhello_i_created_an_ascii_spinning_and%2F&psig=AOvVaw30oLNW6Kr6ETy6q1BvJ3gs&ust=1716474548864000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCP74-8oYYDFQAAAAAdAAAAABAE">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=400&color=%23FF6600&multiline=true&repeat=false&width=835&height=100&lines=Welcome+to+my+account!<3+I'm+a+beginner+Java+developer.;I+enjoy+working+with+databases+and+learning+new+things.;I+study+at+Mate+Academy+and+Precarpathian+National+University.
