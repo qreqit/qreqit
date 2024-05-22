@@ -10,6 +10,11 @@
 ## Languages and tools <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
 <div>
     <img src="Java-Dark.svg" width="50" height="50">
+    <img src="mySQL-Dark.svg" width="50" height="50">
+    <img src="Hibernate-Dark.svg" width="50" height="50">
+    <img src="Git.svg" width="50" height="50">
+    <img src="Java-Dark.svg" width="50" height="50">
+    <img src="Java-Dark.svg" width="50" height="50">
 </div>
 
 ## IDE <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
