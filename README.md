@@ -5,7 +5,7 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=400&color=%23FF6600&multiline=true&repeat=false&width=835&height=100&lines=Welcome+to+my+account!<3+I'm+a+beginner+Java+developer.;I+enjoy+working+with+databases+and+learning+new+things.;I+study+at+Mate+Academy+and+Precarpathian+National+University.
-)](https://git.io/typing-svg)
+)]
 
 
 
