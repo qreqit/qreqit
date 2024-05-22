@@ -9,7 +9,7 @@
 
 ## Languages and tools <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
 <div>
-    <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50" height="50">
+    <img src="Java-Dark.svg" width="50" height="50">
 </div>
 
 ## IDE <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30" height="30">
