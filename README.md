@@ -5,7 +5,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qreqit&theme=shadow-orange&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </p>
 
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=400&color=%23FF6600&multiline=true&random=false&width=835&height=55&lines=Welcome+to+my+account!+<3%20I%27m+a+beginner+Java+developer.+;I+enjoy+working+with+databases+and+learning+new+things.)](https://git.io/typing-svg](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=400&color=%23FF6600&multiline=true&random=false&width=835&height=100&lines=Welcome+to+my+account!+%3A)+I%27m+a+beginner+Java+developer.;I+enjoy+working+with+databases+and+learning+new+things.;I+study+at+Mate+Academy+and+Prykarpattia+National+University.))
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=400&color=%23FF6600&multiline=true&random=false&width=835&height=55&lines=Welcome+to+my+account!+<3%20I%27m+a+beginner+Java+developer.+;I+enjoy+working+with+databases+and+learning+new+things.)](https://git.io/typing-svg](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=400&color=%23FF6600&multiline=true&random=false&width=835&height=100&lines=Welcome+to+my+account!+%3A)+I%27m+a+beginner+Java+developer.;I+enjoy+working+with+databases+and+learning+new+things.;I+study+at+Mate+Academy+and+Prykarpattia+National+University.)]
 
 
 
