@@ -1,4 +1,4 @@
-<img src="wallpaper.jpg" >
+<img src="wallpaper.jpg" width="200">
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qreqit&theme=shadow-orange&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
