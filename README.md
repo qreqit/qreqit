@@ -29,7 +29,8 @@
 
 ## OS 
 <div>
-    <img src="Linux-Dark.svg" width="50" height="50">
+    <img src="ubuntu.png" width="50" height="50">
+    <img src="windows.png" width="50" height="50">
     <img src="Apple-Dark.svg" width="50" height="50">
     
 
