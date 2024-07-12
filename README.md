@@ -15,8 +15,9 @@
     <img src="Java-Dark.svg" width="50" height="50">
     <img src="Hibernate-Dark.svg" width="50" height="50">
     <img src="MySQL-Dark.svg" width="50" height="50">
-    <img src="(https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png)" width="50" height="50">
-    <img src="Java-Dark.svg" width="50" height="50">
+    <img src="spring=boot.png" width="50" height="50">
+    <img src="maven.png" width="50" height="50">
+    <img src="junit.png" width="50" height="50">
     <img src="Git.svg" width="50" height="50">
 
 </div>
