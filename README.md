@@ -15,11 +15,11 @@
     <img src="Java-Dark.svg" width="50" height="50">
     <img src="Hibernate-Dark.svg" width="50" height="50">
     <img src="MySQL-Dark.svg" width="50" height="50">
-    <img src="spring=boot.png" width="50" height="50">
-    <img src="maven.png" width="50" height="50">
-    <img src="junit.png" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="50" height="50">
     <img src="Git.svg" width="50" height="50">
-
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="50" heigth="50">
+    <img src="junit.png" width="50" height="50">
 </div>
 
 ## IDE 
@@ -29,8 +29,8 @@
 
 ## OS 
 <div>
-    <img src="ubuntu.png" width="50" height="50">
-    <img src="windows.png" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="50" height="50">
     <img src="Apple-Dark.svg" width="50" height="50">
     
 
