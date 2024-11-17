@@ -17,14 +17,19 @@
     <img src="MySQL-Dark.svg" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" height="50">
     <img src="Git.svg" width="50" height="50">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="50" heigth="50">
     <img src="junit.png" width="50" height="50">
+    
 </div>
 
 ## IDE 
 <div>
-    <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50" height="50">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Dark.svg" width="50" height="50">
 </div>
 
 ## OS 
@@ -38,5 +43,6 @@
 <div>
     <a href="https://www.instagram.com/greqit/"><img src="Instagram.svg" alt="Instagram" width="50" height="50"></a>
     <a href="https://www.linkedin.com/in/%D1%96%D0%B2%D0%B0%D0%BD-%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D1%8F-7099a22b1/"><img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50"></a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=greqit.work@gmail.com&su=SUBJECT&body=BODY&tf=cm"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" width="50" height="50"></a>
 </div>
 
