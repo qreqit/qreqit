@@ -42,7 +42,7 @@
 ## Socials 
 <div>
     <a href="https://www.instagram.com/greqit/"><img src="Instagram.svg" alt="Instagram" width="50" height="50"></a>
-    <a href="https://www.linkedin.com/in/ivan-prystaia-7099a22b1/"><img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50"></a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&to=greqit.work@gmail.com&su=SUBJECT&body=BODY&tf=cm"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" width="50" height="50"></a>
+    <a href="https://www.linkedin.com/in/ivan-prystaia-5537a5358/"><img src="LinkedIn.svg" alt="LinkedIn" width="50" height="50"></a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=ivan.prystaia.jv@gmail.com&su=SUBJECT&body=BODY&tf=cm"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" width="50" height="50"></a>
 </div>
 
